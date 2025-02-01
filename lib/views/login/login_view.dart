@@ -101,7 +101,7 @@ class _LoginViewState extends State<LoginView> {
                       controller: _emailController,
                       validator: (value) {
                         if (value == null || value.isEmpty) {
-                          return 'Please enter an email';
+                          return BaseStrings.email;
                         }
                         return null;
                       },

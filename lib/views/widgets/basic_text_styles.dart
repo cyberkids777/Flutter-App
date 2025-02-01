@@ -8,7 +8,7 @@ Widget BasicSignInText(String text) {
     padding: const EdgeInsets.only(top: 21, bottom: 26),
     child: Text(
       text,
-      style: TextStyle(
+      style: const TextStyle(
         fontSize: 30,
         fontWeight: FontWeight.w700,
         color: CustomColors.purpleColor,

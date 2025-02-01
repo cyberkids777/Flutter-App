@@ -13,6 +13,8 @@ class BaseStrings {
   static const description = 'Type something...';
   static const save = 'Save';
   static const important = 'Important: ';
+  static const email = 'Please enter an email';
+  static const password = 'Please enter a password';
 }
 
 class FakeCredentials {
