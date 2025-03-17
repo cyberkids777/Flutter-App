@@ -1,6 +1,6 @@
-# I guess it does something?
+# Notes app
 
-A new Flutter project.
+Notes app with basic authentication using baked in credentials. Use admin/admin to log in
 
 ## Getting Started
 
